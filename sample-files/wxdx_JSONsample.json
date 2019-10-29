@@ -41,7 +41,7 @@
          "roadRestrictions": "reduced-length",
          "description": "String",
          "issuingOrganization": "String",
-         "timestampEventCreation": "2001-12-17T09:30:47Z",
+         "timestampEventCreation": "2001-12-17T09:30:47Z", 
          "timestampEventUpdate": "2001-12-17T09:30:47Z"
       },
       "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
